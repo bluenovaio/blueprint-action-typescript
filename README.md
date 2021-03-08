@@ -2,6 +2,7 @@
 
 - [ ] Update the `action.yaml` with the correct data (i.e. Name of project, inputs, outputs etc.)
 - [ ] Update the `package.json` with the correct name, version, etc.
+- [ ] Update the `README.md` with the correct information & documentation.
 - [ ] Add Unit Tests and remove `--passWithNoTests` argument in then `"scripts"` section of the `package.json`.
 
 # blueprint-action-typescript
