@@ -1,6 +1,6 @@
 name: blueprint-action-typescript
 description: Template repository for TypeScript Github Actions.
-author: @bluenovaio
+author: "@bluenovaio"
 inputs: {}
 outputs: {}
 runs:
